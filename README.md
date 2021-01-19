@@ -11,7 +11,7 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 | 2      | 8:55-9:45   |        |                |            |         |OOP345 NAA Lecture|
 | 3      | 9:50-10:40  |        |OOP244 NAA (Lecture/Q&A)|            |         |OOP244 NAA Lecture|
 | 4      | 10:45-11:35 |        |OOP244 NAA (Lecture/Q&A)|            |         |OOP244 NAA Lecture|
-| 5      | 11:40-12:30 |        |OOP244 NBB (Lecture/Q&A)| [Office]() |         |           Lecture|
+| 5      | 11:40-12:30 |        |OOP244 NBB (Lecture/Q&A)| [Office]() |         |           |
 | 6      | 12:35-13:25 |        |OOP244 NBB (Lecture/Q&A)| [Office]() |         |OOP244 NBB Lecture|
 | 7      | 13:30-14:20 |        |OOP345 NAA (Lecture/Q&A)|            |         |OOP244 NBB Lecture|
 | 8      | 14:25-15:15 |        |OOP345 NAA (Lecture/Q&A)|            |         |          |
