@@ -4,7 +4,7 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 [OOP345 active Session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=Nvx-hF4TuenzJWfzEyMJH4hBJScbZZjuxQEFYqMqgQU&m=e8ce43f1a730e2478fa56e6d96881e945f6e186d&t=1611685660584&u=senecacollege)
 ## Previous Sessions
 - [Jan 15 - C++ Overview, Compilation, Execution](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1610714847716/capture/)
-- [Jan 19 - C++ Overview, Compilation and Execution & Q&A] (https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611080851821/capture/)
+- [Jan 19 - C++ Overview, Compilation and Execution & Q&A](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611080851821/capture/)
 - [jan 22 - Pointers, References, and Arrays, Classes and Scoped Enumeration](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611319676921/capture/)
 - [jan 26 - Pointers, References, and Arrays, Classes and Scoped Enumeration (continued)](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611685660638/capture/)
 
