@@ -7,6 +7,8 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Jan 19 - C++ Overview, Compilation and Execution & Q&A](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611080851821/capture/)
 - [jan 22 - Pointers, References, and Arrays, Classes and Scoped Enumeration](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611319676921/capture/)
 - [jan 26 - Pointers, References, and Arrays, Classes and Scoped Enumeration (continued)](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611685660638/capture/)
+- [Feb 02 - Inheritance and Templates](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1612290420225/capture/)
+- [Feb 05 - Compositions, Aggregations, and Associations](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1612529898873/capture/)
 
 = 
 ## Fardad's Schedule
