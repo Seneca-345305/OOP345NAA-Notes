@@ -1,14 +1,16 @@
 #include <iostream>
 using namespace std;
 #include "Int.h"
-Int::Int(int value, auto (*vld)(int val, string& messageOut) -> bool) {
+#include "Validation.h"
+
+Int::Int(int value, Validation* validationFunctor) {
    m_value = value;
-   m_valid = vld;
-}
-void Int::set(auto (*validationLogicAddress)(int val, string& messageOut) -> bool) {
-   m_valid = validationLogicAddress;
+   m_valid = validationFunctor;
 }
 
+void Int::set(Validation* validationFunctor) {
+   m_valid = validationFunctor;
+}
 auto Int::get(istream& istr)->istream& {
    bool done = false;
    do {
@@ -17,7 +19,7 @@ auto Int::get(istream& istr)->istream& {
 /*2      istr >> m_value;
       if(istr){*/
       if(istr >> m_value){
-         done = !m_valid || m_valid(m_value, m_message);
+         done = !m_valid || (*m_valid)(m_value, m_message);
       }
       else{
             m_message = "Invalid Integer, try agian: ";
