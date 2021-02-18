@@ -9,8 +9,10 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [jan 26 - Pointers, References, and Arrays, Classes and Scoped Enumeration (continued)](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611685660638/capture/)
 - [Feb 02 - Inheritance and Templates](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1612290420225/capture/)
 - [Feb 05 - Compositions, Aggregations, and Associations](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1612529898873/capture/)
+- [Feb 09 - Expressions](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1612895470874/capture/)
+- [Feb 12 - Funcitons](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1613133818484/capture/)
+- [Feb 16 - Functions(Continued)](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1613500295816/capture/)
 
-= 
 ## Fardad's Schedule
 | Period | Start-Stop  | Mon    | Tue            | Wed        | Thu     | Fri      |
 |--------|-------------|--------|----------------|------------|---------|----------|
