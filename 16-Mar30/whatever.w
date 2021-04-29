@@ -1,3 +1,0 @@
-   cout << i << " ";
-}
-cout << endl;
